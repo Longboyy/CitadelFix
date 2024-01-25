@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace CitadelFix;
+namespace CitadelFix.Util;
 
 public static class ReflectionUtils
 {
